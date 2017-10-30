@@ -1,0 +1,14 @@
+{
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://packagist.org",
+			"_note": "Useful when proxying is broken and you want to force composer to always use packagist over https"
+		},
+		{ "packagist": false }
+	],
+	"require": {
+		"nategood/commando": "^0.2.9",
+		"league/climate": "^3.2"
+	}
+}

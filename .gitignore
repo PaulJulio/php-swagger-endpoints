@@ -1,6 +1,9 @@
+.idea
+.vagrant
 composer.phar
 /vendor/
 
 # Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
 # You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+# The lock file is ignored in the base php-quickstart repo because it does not want to lock you into old versions
+composer.lock
