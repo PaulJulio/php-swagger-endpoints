@@ -1,4 +1,13 @@
 {
+	"name": "pauljulio/php-swagger-endpoints",
+	"description": "Parse a swagger spec file and output info for your manager and security partner",
+	"minimum-stability": "dev",
+	"authors": [
+		{
+			"name": "Paul Hulett",
+			"email": "paulhulett@gmail.com"
+		}
+	],
 	"repositories": [
 		{
 			"type": "composer",
